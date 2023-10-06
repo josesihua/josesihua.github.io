@@ -1,1 +1,1 @@
-python manage.py runserve
+# josesihua.github.io
